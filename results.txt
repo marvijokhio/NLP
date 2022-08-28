@@ -1,6 +1,0 @@
-96.58385093167702   Comment = The accuracy when running on traindata and trainlabels.
-100.0       Comment = The accuracy when running on testdata and testlabels
-
-
-Extra Note: 
-I tested my code on slides example of Chinese and it gave 100% perfect result. 
