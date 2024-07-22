@@ -1,7 +1,7 @@
 Implementation Tools (Minimum Requirements): 
 
 Pyhton  3.7
-postgreSQL with Synthea Database
+postgreSQL with SyntheticMass data set
 
 Python packages: 
 ___________________  
